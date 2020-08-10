@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### Apps I made
+##### Apps I made
 
 [Metrify](https://github.com/vaetas/metrify) helps you track personal metrics.
 
@@ -8,7 +8,7 @@
 
 [Holder](https://github.com/vaetas/holder) is place for keeping important details about other people.
 
-###### Packages I published
+##### Packages I published
 
 [logx](https://github.com/vaetas/logx) is mixin-based simple logging for Flutter
 

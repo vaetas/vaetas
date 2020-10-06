@@ -21,3 +21,5 @@
 [dart_package_boilerplate](https://github.com/vaetas/dart_package_boilerplate) is useful for quick setup of pure Dart packages with pedantic linting.
 
 [flutter-extended-templates](https://github.com/vaetas/flutter-extended-templates) is collection of Android Studio Live Templates for Flutter or libraries like BLoC and freezed.
+
+[build_runner_helper](https://pub.dev/packages/build_runner_helper) saves your fingers when using `build_runner`.

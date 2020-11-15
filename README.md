@@ -2,6 +2,8 @@
 
 #### Apps I made
 
+[Blake](https://github.com/vaetas/blake) is a static site generator in Dart language. Markdown support, Mustache templates, YAML config, live-reload and compiled into single native binary. 
+
 [Metrify](https://github.com/vaetas/metrify) helps you track personal metrics.
 
 [Exhaled](https://github.com/vaetas/exhaled) is minimalistic app for training breathing techniques.
